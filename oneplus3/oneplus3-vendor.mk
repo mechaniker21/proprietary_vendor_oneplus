@@ -675,8 +675,6 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     QtiTetherService \
     colorservice \
-    ims \
-    imssettings \
     qcnvitems \
     qcrilhook
 endif
